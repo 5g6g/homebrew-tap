@@ -10,7 +10,7 @@ class Hi < Formula
 
   on_arm do
     url "https://github.com/5g6g/test/releases/download/v24.2.54/hi-darwin-arm64.zip"
-    sha256 "b5a0b099e12b66355f0793eedc1ae0c067bdd38b07aea5e93883a60c47542548"
+    sha256 "3524175ac2f7bbf6a24a87af0872a9a23c5edc8425b191b330f06323249cbf4a"
 
     def install
       bin.install "hi"
